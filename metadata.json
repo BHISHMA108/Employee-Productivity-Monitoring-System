@@ -1,0 +1,5 @@
+{
+  "name": "AI Productivity Monitor - FYP",
+  "description": "A deep learning hybrid model system for employee productivity monitoring and face presence detection.",
+  "requestFramePermissions": ["camera"]
+}
